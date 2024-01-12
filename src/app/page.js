@@ -2,8 +2,8 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-      <div>
-        HOla soy la pagina
+      <div className="w-full h-screen flex justify-center items-center">
+        Hola soy la pagina
       </div>
     
   )
